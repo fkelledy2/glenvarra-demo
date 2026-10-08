@@ -1,0 +1,26 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "Glenvarra College – demo school website",
+    "description": "A fictional Irish independent day and boarding school, built as a WordPress block theme.",
+    "author": "fkelledy2"
+  },
+  "landingPage": "/",
+  "preferredVersions": { "php": "8.3", "wp": "latest" },
+  "features": { "networking": true },
+  "steps": [
+    { "step": "login", "username": "admin" },
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/fkelledy2/glenvarra-demo/main/glenvarra.zip"
+      },
+      "options": { "activate": true }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; if ( function_exists( 'glenvarra_import_demo' ) && ! get_option( 'glenvarra_demo_imported' ) ) { wp_set_current_user( 1 ); glenvarra_import_demo(); flush_rewrite_rules( false ); }"
+    }
+  ]
+}

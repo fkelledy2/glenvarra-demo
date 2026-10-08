@@ -1,0 +1,17 @@
+<svg width="800" height="560" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Illustration of a piano keyboard and music notes">
+  <rect width="800" height="560" fill="#C8A24A"/>
+  <g fill="#ffffff" opacity=".12"><circle cx="680" cy="110" r="120"/><circle cx="90" cy="80" r="60"/></g>
+  <rect x="80" y="330" width="640" height="170" fill="#F7F3EA" stroke="#1B2A3A" stroke-width="4"/>
+  <g stroke="#1B2A3A" stroke-width="3">
+    <path d="M160 330 V500"/><path d="M240 330 V500"/><path d="M320 330 V500"/><path d="M400 330 V500"/><path d="M480 330 V500"/><path d="M560 330 V500"/><path d="M640 330 V500"/>
+  </g>
+  <g fill="#1B2A3A"><rect x="138" y="330" width="40" height="100"/><rect x="218" y="330" width="40" height="100"/><rect x="378" y="330" width="40" height="100"/><rect x="458" y="330" width="40" height="100"/><rect x="538" y="330" width="40" height="100"/></g>
+  <rect x="80" y="300" width="640" height="34" fill="#1B2A3A"/>
+  <g fill="#1F4D3A">
+    <ellipse cx="250" cy="220" rx="26" ry="19" transform="rotate(-20 250 220)"/><rect x="270" y="90" width="7" height="130"/>
+    <ellipse cx="370" cy="200" rx="26" ry="19" transform="rotate(-20 370 200)"/><rect x="390" y="70" width="7" height="130"/>
+    <path d="M273 90 L397 70 V96 L273 116 Z"/>
+    <ellipse cx="530" cy="190" rx="26" ry="19" transform="rotate(-20 530 190)"/><rect x="550" y="60" width="7" height="130"/>
+    <path d="M557 60 Q600 80 590 130 Q585 100 557 92 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="800" height="560" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Illustration of an easel with a painting">
+  <rect width="800" height="560" fill="#E6DFD0"/>
+  <g fill="#1F4D3A" opacity=".12"><circle cx="120" cy="460" r="140"/><circle cx="720" cy="80" r="90"/></g>
+  <g stroke="#1B2A3A" stroke-width="10" stroke-linecap="round"><path d="M400 80 L280 520"/><path d="M400 80 L520 520"/><path d="M400 80 V520"/></g>
+  <rect x="250" y="130" width="300" height="230" fill="#F7F3EA" stroke="#1B2A3A" stroke-width="5"/>
+  <rect x="262" y="142" width="276" height="206" fill="#9fb8a4"/>
+  <path d="M262 290 C320 240 380 260 430 230 C480 200 510 230 538 220 V348 H262 Z" fill="#1F4D3A"/>
+  <circle cx="470" cy="190" r="22" fill="#C8A24A"/>
+  <rect x="240" y="360" width="320" height="16" fill="#1B2A3A"/>
+  <g><ellipse cx="640" cy="420" rx="90" ry="60" fill="#F7F3EA" stroke="#1B2A3A" stroke-width="4"/><circle cx="610" cy="400" r="12" fill="#C8A24A"/><circle cx="645" cy="395" r="12" fill="#1F4D3A"/><circle cx="675" cy="415" r="12" fill="#1B2A3A"/><circle cx="620" cy="440" r="12" fill="#c0523f"/><circle cx="665" cy="450" r="10" fill="#E6DFD0" stroke="#1B2A3A" stroke-width="2"/></g>
+</svg>

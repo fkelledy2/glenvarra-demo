@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" role="img" aria-label="Glenvarra College crest">
+  <path d="M60 4 L112 18 V70 C112 104 88 124 60 136 C32 124 8 104 8 70 V18 Z" fill="#1F4D3A" stroke="#C8A24A" stroke-width="4"/>
+  <path d="M60 14 L102 25 V70 C102 98 82 115 60 125 C38 115 18 98 18 70 V25 Z" fill="none" stroke="#C8A24A" stroke-width="1.2" opacity=".6"/>
+  <path d="M22 72 L44 48 L56 60 L70 40 L98 72 Z" fill="#C8A24A"/>
+  <path d="M22 72 L44 48 L50 54 L40 72 Z" fill="#F7F3EA" opacity=".25"/>
+  <path d="M34 82 Q47 76 60 82 Q73 76 86 82 V104 Q73 98 60 104 Q47 98 34 104 Z" fill="#F7F3EA"/>
+  <path d="M60 82 V104" stroke="#1F4D3A" stroke-width="2"/>
+  <circle cx="84" cy="34" r="5" fill="#F7F3EA"/>
+</svg>
